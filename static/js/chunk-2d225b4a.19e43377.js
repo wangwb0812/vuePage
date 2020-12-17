@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d225b4a"],{e614:function(e,n,t){"use strict";t.r(n);var r=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(e._s(e.$route.meta.title))])},a=[],s={name:"UserPermission",data:function(){return{}}},u=s,i=t("2877"),c=Object(i["a"])(u,r,a,!1,null,"30fd7dbd",null);n["default"]=c.exports}}]);

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0af2eb"],{"0cdf":function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[e._v(e._s(e.$route.meta.title))])},c=[],r={name:"UserResetPsd",data:function(){return{}}},s=r,u=n("2877"),d=Object(u["a"])(s,a,c,!1,null,"430f39cd",null);t["default"]=d.exports}}]);
